@@ -1,5 +1,8 @@
 site_name: React Alicante 2017 Death Notes
 theme: material
+extra_css:
+- 'css/styles.css'
 pages:
 - Home: index.md
 - Friday 29th: friday.md
+- Saturday 30th: saturday.md
