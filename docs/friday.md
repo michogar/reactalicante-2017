@@ -46,7 +46,7 @@
 		* Immutable data structure
 		* Shallow comparation
 * Esfuerzos de integración
-	* [skateJS]https://github.com/skatejs/skatejs()
+	* [skateJS](https://github.com/skatejs/skatejs)
 * Futuros lenguajes
 	* [ReasonML](https://reasonml.github.io/)
 * Los estándares se mueven despacio, necesitan consenso. JUAS!!.
