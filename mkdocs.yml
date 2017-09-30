@@ -1,0 +1,5 @@
+site_name: React Alicante 2017 Death Notes
+theme: material
+pages:
+- Home: index.md
+- Friday 29th: friday.md
